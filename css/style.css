@@ -1,0 +1,25 @@
+.pad-all {
+	padding: 10px;
+}
+
+.mar-all {
+	margin: 10px;
+}
+
+.mar-top {
+	margin-top: 10px;
+}
+
+.error {
+    color: #FF0000;
+}
+
+.logout {
+	margin-left: 1250px;
+	right: 10px;
+ 	top: 5px;
+}
+
+.float-right {
+	float: right;
+}
