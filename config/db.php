@@ -2,7 +2,7 @@
 $host = 'localhost';
 $db = 'akash_test';
 $user = 'root';
-$password = '123456';
+$password = '';
 
 $conn = new mysqli($host, $user, $password, $db);
 
